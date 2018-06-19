@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data-sources>
+	<data-source id="sqlite_jdbc-162e3614e94-4595ea210658c7bb" provider="generic" driver="sqlite_jdbc" name="SQLite - test.db" save-password="true" show-system-objects="true" read-only="false">
+		<connection server="" database="C:\Users\mrx\Desktop\spring-boot-actuator-example\test.db" url="jdbc:sqlite:C:\Users\mrx\Desktop\spring-boot-actuator-example\test.db" type="dev"/>
+	</data-source>
+	<filters/>
+</data-sources>

@@ -1,0 +1,74 @@
+html{
+
+}
+.w3-button.w3-teal{
+  background-color: #343a40!important;
+  color: #40ff45;
+}
+.form-inline button{
+  background-color: #2dd066;
+  color:#1d1818;
+}
+.form-inline{
+  margin-top:10px;
+}
+.form-inline input, .form-inline button{
+  border-color: #3cf979;
+}
+.form-inline button:hover{
+  color:white;
+  background-color:#343a40;
+  border-color: #343a40;
+}
+
+.headerButton{
+  margin-left: 20px;
+}
+/*Result container*/
+.result-container{
+  margin-top: 20px;
+}
+.container{
+  float:left;
+  position: absolute;
+  margin-left: 80%;
+  margin-top: -60px;
+  z-index: 5;
+}
+.dropdown{
+  margin-left: 1%;
+}
+
+.card:hover{
+  cursor:pointer;
+  transform: scale(1.02);
+}
+.card img{
+  width:50%;
+  margin-left: 25%;
+  margin-top: 5px;
+}
+.card{
+  min-width: 250px;
+  max-width: 250px;
+  margin-top: 20px;
+}
+.card-footer img{
+  margin-left: 10%;
+  width:32px;
+  height: 32px;
+}
+.card-footer img:hover{
+  transform: scale(1.2);
+}
+#orderButton{
+  margin-left:25%;
+}
+.dropdownHidden:not(.ng-hide-animate) {
+  /* These are just alternative ways of hiding an element */
+  display: block!important;
+  position: absolute;
+  top: -9999px;
+  left: -9999px;
+}
+
